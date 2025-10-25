@@ -5,7 +5,7 @@ This project demonstrates component-based design, navigation, and responsive lay
 
 
 ## View Project ##
-<a href="https://vdharmendra.github.io/Static-To-Do-List-App-ReactJs/">View Project on browser</a>
+<a href="https://vdharmendra.github.io/Static-React-Js-WebSite-Reactjs-Small-Project/">View Project on browser</a>
 
 - 
 👨‍💻 Author
